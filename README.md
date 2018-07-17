@@ -1,1 +1,1 @@
-# notebook that records research in blockchain, ai
+# notebook research in blockchain, ai
